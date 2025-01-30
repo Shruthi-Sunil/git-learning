@@ -1,3 +1,7 @@
 git init => to initialize git repository to present workspace and it is only done once
 
 git status => to list all untracked files
+
+git add -A => to add all untracked files to stagingArea
+
+git commit -m "commit message" => add from stagingArea to local repository  
