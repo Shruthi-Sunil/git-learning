@@ -9,3 +9,12 @@ git commit -m "commit message" => add from stagingArea to local repository
 git config --global user.name "username"
 
 git config --global user.email "email"
+
+git remote add repository_name path
+
+git push repository_name (master/main)
+
+git branch
+
+git checkout
+
