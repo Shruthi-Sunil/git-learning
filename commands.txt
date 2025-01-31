@@ -10,9 +10,9 @@ git config --global user.name "username"
 
 git config --global user.email "email"
 
-git remote add repository_name path
+git remote add remote_name remote_path
 
-git push repository_name (master/main)
+git push remote_name (master/main)
 
 git branch
 
